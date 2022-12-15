@@ -33,6 +33,7 @@ Toiminta
      
   
  Omat aatteet työstä
+ 
     Aika spagettia tämä kyllä on, mutta on siinä ainakin omasta mielestäni kaikki, mitä 4-5 arvosanaan vaadittiin.
     Työ ei ole kuitenkaan mielestäni "toteutettu kaikin puolin poikkeuksellisen hyvin", joten 4 arvoinen tämä taitaa olla.
     Aliohjelmia olisi saanut olla enemmän. Esimerkiksi Syötteen tarkistuksen muuttaminen aliohjlemaksi olisi säästänyt paljon tilaa.
