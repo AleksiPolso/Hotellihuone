@@ -15,7 +15,7 @@ Toiminta
   2. Tarkista vapaana olevat huoneet
     Ohjelma ilmoittaa vapaana olevien huoneiden määrät, sekä erikseen vapaiden huoneiden huonenumerot.
     
-  3.
+  3. Tarkista varatut huoneet
     Ohjelma ilmoittaa varattujen huoneiden määrän, sekä varattujen huoneiden huonenenumerot.
     
   4. Etsi varattuja huoneita
@@ -35,7 +35,6 @@ Toiminta
  Omat aatteet työstä
     Aika spagettia tämä kyllä on, mutta on siinä ainakin omasta mielestäni kaikki, mitä 4-5 arvosanaan vaadittiin.
     Työ ei ole kuitenkaan mielestäni "toteutettu kaikin puolin poikkeuksellisen hyvin", joten 4 arvoinen tämä taitaa olla.
-    
     Aliohjelmia olisi saanut olla enemmän. Esimerkiksi Syötteen tarkistuksen muuttaminen aliohjlemaksi olisi säästänyt paljon tilaa.
     Myös hotellihuone struktissa varattu = true, tarkoittaa että huone on vapaa, mikä ei kyllä tee järkeä.
     Suoraan sanottuna en enää tässä kohtaa kuitenkaan jaksa mennä muuttamaan näitä asioita.
